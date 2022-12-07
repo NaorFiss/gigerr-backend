@@ -263,3 +263,133 @@
 7.12.2022, 9:10:33 - INFO - Server is running on port: 3030 
 7.12.2022, 9:10:53 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
 7.12.2022, 9:13:26 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:16:48 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:22:02 - INFO - Server is running on port: 3030 
+7.12.2022, 9:22:11 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:29:20 - DEBUG - auth.service - signup with username: 123, fullname: new user 
+7.12.2022, 9:29:21 - DEBUG - auth.route - new account created: {"username":"123","password":"$2a$10$56TR5K5F5TAcbVfRWbggzemqraYWZRUdeWMQBy0RedgoVoGl3U2pC","fullname":"new user","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100,"_id":"639040d1c60ffc67a8959b39"} 
+7.12.2022, 9:29:21 - DEBUG - auth.service - login with username: 123 
+7.12.2022, 9:29:21 - INFO - User signup: | {"_id":"639040d1c60ffc67a8959b39","username":"123","fullname":"new user","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100} 
+7.12.2022, 9:29:21 - DEBUG - Getting Gigs (userId: 639040d1c60ffc67a8959b39)
+7.12.2022, 9:34:49 - DEBUG - Getting Gigs (userId: 639040d1c60ffc67a8959b39)
+7.12.2022, 9:35:10 - DEBUG - Getting Gigs (userId: 639040d1c60ffc67a8959b39)
+7.12.2022, 9:36:05 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 9:36:05 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":"level 1","isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "},{"_id":"638f7f744c12c7b025bcd71d","title":"I will grow instagram marketing instagram promotion to get targeted instagram followers "}],"reviews":[{"id":"r1","gig":{"_id":"g1","title":"I will design your logo"},"txt":"Very kind and works fast","rate":4,"by":{"_id":"638f9e184c12c7b025dc313e","fullname":"naor","imgUrl":"./src/imgs/user-img/Naor-Fiss.jpeg"}}],"score":null} 
+7.12.2022, 9:36:06 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:00:48 - INFO - Server is running on port: 3030 
+7.12.2022, 10:00:55 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:05:45 - INFO - Server is running on port: 3030 
+7.12.2022, 10:06:01 - INFO - Server is running on port: 3030 
+7.12.2022, 10:08:06 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:10:08 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:15:38 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:21:49 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:22:15 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:24:43 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:24:47 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:24:48 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 10:24:49 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:33:52 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:34:19 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:36:02 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:38:55 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:39:14 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:44:13 - INFO - Server is running on port: 3030 
+7.12.2022, 11:44:25 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:49:18 - INFO - Server is running on port: 3030 
+7.12.2022, 11:49:37 - INFO - Server is running on port: 3030 
+7.12.2022, 11:49:40 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 11:49:50 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:12:14 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:13:57 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:14:23 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:14:41 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:15:17 - INFO - Server is running on port: 3030 
+7.12.2022, 12:15:28 - INFO - Server is running on port: 3030 
+7.12.2022, 12:16:52 - INFO - Server is running on port: 3030 
+7.12.2022, 12:17:09 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:18:18 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:18:18 - ERROR - Failed to Login Invalid username or password 
+7.12.2022, 12:18:19 - DEBUG - Getting Gigs 
+7.12.2022, 12:18:29 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:18:29 - ERROR - Failed to Login Invalid username or password 
+7.12.2022, 12:18:30 - DEBUG - Getting Gigs 
+7.12.2022, 12:19:20 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:19:20 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":null,"isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "},{"_id":"63905e806f93ef47d8b91c4e"},{"_id":"63905f406f93ef47d8b91c4f"},{"_id":"63906077e217d53e3099323d"},{"_id":"639061bcd0fe725a1c5b32c6"},{"_id":"6390678fd0fe725a1c5b32c7"},{"_id":"63906824f268565d50510be7"}],"reviews":null,"score":null} 
+7.12.2022, 12:19:21 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:19:30 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:20:55 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:24:32 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:24:32 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":null,"isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "},{"_id":"63905e806f93ef47d8b91c4e"},{"_id":"63905f406f93ef47d8b91c4f"},{"_id":"63906077e217d53e3099323d"},{"_id":"639061bcd0fe725a1c5b32c6"},{"_id":"6390678fd0fe725a1c5b32c7"},{"_id":"63906824f268565d50510be7"},{"_id":"639068b0f268565d50510be8"},{"_id":"63906905f268565d50510be9"}],"reviews":null,"score":null} 
+7.12.2022, 12:24:33 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:26:40 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:26:41 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":null,"isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "},{"_id":"63905e806f93ef47d8b91c4e"},{"_id":"63905f406f93ef47d8b91c4f"},{"_id":"63906077e217d53e3099323d"},{"_id":"639061bcd0fe725a1c5b32c6"},{"_id":"6390678fd0fe725a1c5b32c7"},{"_id":"63906824f268565d50510be7"},{"_id":"639068b0f268565d50510be8"},{"_id":"63906905f268565d50510be9"}],"reviews":null,"score":null} 
+7.12.2022, 12:26:41 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:26:51 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:29:00 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:29:46 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:35:11 - INFO - Server is running on port: 3030 
+7.12.2022, 12:35:17 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:35:18 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":null,"isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "},{"_id":"63905e806f93ef47d8b91c4e"},{"_id":"63905f406f93ef47d8b91c4f"},{"_id":"63906077e217d53e3099323d"},{"_id":"639061bcd0fe725a1c5b32c6"},{"_id":"6390678fd0fe725a1c5b32c7"},{"_id":"63906824f268565d50510be7"},{"_id":"639068b0f268565d50510be8"},{"_id":"63906905f268565d50510be9"},{"_id":"63906b19f268565d50510bea"}],"reviews":null,"score":null} 
+7.12.2022, 12:35:18 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:35:35 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:39:48 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:40:11 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:42:22 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:42:39 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:43:33 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:44:17 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:45:21 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:47:16 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:48:32 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:49:10 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:50:25 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:51:00 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:51:46 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:51:56 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 12:54:13 - DEBUG - Getting Gigs 
+7.12.2022, 12:54:23 - DEBUG - Getting Gigs 
+7.12.2022, 12:54:58 - DEBUG - Getting Gigs 
+7.12.2022, 12:55:16 - DEBUG - auth.service - login with username: naor 
+7.12.2022, 12:55:16 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313e","fullname":"naor","imgUrl":"./src/imgs/user-img/Naor-Fiss.jpeg","username":"naor","level":"level 2","isAdmin":true,"rate":4.8,"gigs":[{"_id":"638f7f744c12c7b025bcd71b","title":"I will build an app, so click here and start apping your special app now! hurry hurry hurry"}],"reviews":[{"id":"r2","gig":{"_id":"638f7f744c12c7b025bcd71b","title":"I will build an app, so click here and start apping your special app now! hurry hurry hurry"},"txt":"Very kind","rate":5,"by":{"_id":"638f9e184c12c7b025dc313f","fullname":"shachar","imgUrl":"./src/imgs/user-img/shacar.jpg"}}]} 
+7.12.2022, 12:55:16 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 12:58:06 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 12:58:44 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 12:58:44 - ERROR - Failed to Login Invalid username or password 
+7.12.2022, 12:58:45 - DEBUG - Getting Gigs 
+7.12.2022, 13:00:43 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 13:00:44 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":"level 2","isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "}],"reviews":null,"score":null} 
+7.12.2022, 13:00:44 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:01:51 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:10:03 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:14:37 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:15:41 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:24:37 - DEBUG - auth.service - login with username: itzik 
+7.12.2022, 13:24:38 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":"level 2","isAdmin":true,"rate":4.2,"gigs":[{"_id":"638fbf30bef406614fcdba36","title":"I will design your logo in no time trust me "},{"_id":"6390729d0d48fb6568dab793"},{"_id":"6390748a0d48fb6568dab794"}],"reviews":null,"score":null} 
+7.12.2022, 13:24:39 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:27:29 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:29:05 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:43:57 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:44:32 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 13:57:34 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 14:05:17 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 14:05:31 - DEBUG - auth.service - login with username: naor 
+7.12.2022, 14:05:32 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313e","fullname":"naor","imgUrl":"./src/imgs/user-img/Naor-Fiss.jpeg","username":"naor","level":"level 2","isAdmin":true,"rate":4.8,"gigs":[{"_id":"638f7f744c12c7b025bcd71b","title":"I will build an app, so click here and start apping your special app now! hurry hurry hurry"}],"reviews":[{"id":"r2","gig":{"_id":"638f7f744c12c7b025bcd71b","title":"I will build an app, so click here and start apping your special app now! hurry hurry hurry"},"txt":"Very kind","rate":5,"by":{"_id":"638f9e184c12c7b025dc313f","fullname":"shachar","imgUrl":"./src/imgs/user-img/shacar.jpg"}}]} 
+7.12.2022, 14:05:33 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 14:07:08 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 14:11:32 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 14:15:56 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 14:16:24 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 14:59:11 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:00:43 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:23:28 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:27:17 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:33:20 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:41:42 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:42:29 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:42:34 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 15:54:59 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 16:26:06 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 16:35:33 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 16:41:21 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)
+7.12.2022, 16:41:35 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313e)

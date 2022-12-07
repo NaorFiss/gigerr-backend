@@ -37,9 +37,10 @@ async function signup({ username, password, fullname, imgUrl }) {
     return userService.add({ username, password: hash, fullname, imgUrl })
 }
 
-
+/////////////// where to take the owner img from?
 function getLoginToken(user) {
-    const userInfo = { _id: user._id, fullname: user.fullname, isAdmin: user.isAdmin }
+    const userInfo = { _id: user._id, fullname: user.fullname, isAdmin: user.isAdmin , imgUrl: user.imgUrl ,rate:user.rate}
+    console.log(userInfo);
     return cryptr.encrypt(JSON.stringify(userInfo))
 }
 
