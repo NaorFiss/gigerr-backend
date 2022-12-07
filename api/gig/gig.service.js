@@ -9,7 +9,7 @@ async function query(filterBy = { txt: '' }) {
             title: { $regex: filterBy.txt, $options: 'i' }
         }
         const collection = await dbService.getCollection('gig')
-        console.log(collection)
+        // console.log(collection)
         var gigs = await collection.find(criteria).toArray()
         return gigs
     } catch (err) {
@@ -101,3 +101,5 @@ module.exports = {
     addGigMsg,
     removeGigMsg
 }
+
+

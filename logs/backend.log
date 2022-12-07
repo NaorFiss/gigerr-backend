@@ -94,3 +94,172 @@
 5.12.2022, 21:53:48 - DEBUG - Getting Gigs 
 5.12.2022, 21:56:01 - DEBUG - Getting Gigs 
 5.12.2022, 21:59:18 - INFO - Server is running on port: 3030 
+6.12.2022, 20:28:01 - INFO - Server is running on port: 3030 
+6.12.2022, 20:28:09 - DEBUG - Getting Gigs 
+6.12.2022, 20:28:23 - DEBUG - Getting Gigs 
+6.12.2022, 20:28:27 - DEBUG - Getting Gigs 
+6.12.2022, 20:28:58 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - while finding gig rR2yTb | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:28:58 - ERROR - while finding gig 4l0Sm8 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:01 - DEBUG - Getting Gigs 
+6.12.2022, 20:29:15 - DEBUG - Getting Gigs 
+6.12.2022, 20:29:16 - DEBUG - Getting Gigs 
+6.12.2022, 20:29:21 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:21 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:21 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:21 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:38 - DEBUG - Getting Gigs 
+6.12.2022, 20:29:42 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:42 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:42 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:42 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:29:46 - DEBUG - Getting Gigs 
+6.12.2022, 20:57:11 - DEBUG - Getting Gigs 
+6.12.2022, 20:59:48 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:59:48 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:59:48 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 20:59:48 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:56:27 - DEBUG - Getting Gigs 
+6.12.2022, 21:56:35 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:56:35 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:56:35 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:56:35 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:57:00 - DEBUG - Getting Gigs 
+6.12.2022, 21:57:09 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:57:09 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:57:09 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 21:57:09 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:00:37 - DEBUG - Getting Gigs 
+6.12.2022, 22:06:03 - DEBUG - Getting Gigs 
+6.12.2022, 22:06:07 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:06:07 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:06:07 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:06:07 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:06:09 - DEBUG - Getting Gigs 
+6.12.2022, 22:52:52 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:52:52 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:52:52 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:52:52 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:52:58 - DEBUG - Getting Gigs 
+6.12.2022, 22:53:41 - DEBUG - Getting Gigs 
+6.12.2022, 22:53:49 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:53:49 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:53:49 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 22:53:49 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:01:17 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:01:17 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:01:17 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:01:17 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:03:14 - DEBUG - Getting Gigs 
+6.12.2022, 23:05:29 - DEBUG - Getting Gigs 
+6.12.2022, 23:05:33 - ERROR - while finding gig g2 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:05:33 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:05:33 - ERROR - while finding gig g5 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:05:33 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.12.2022, 23:05:56 - DEBUG - Getting Gigs 
+6.12.2022, 23:05:58 - DEBUG - Getting Gigs 
+6.12.2022, 23:06:02 - DEBUG - Getting Gigs 
+6.12.2022, 23:06:23 - DEBUG - Getting Gigs 
+6.12.2022, 23:06:34 - DEBUG - Getting Gigs 
+6.12.2022, 23:06:42 - DEBUG - Getting Gigs 
+6.12.2022, 23:06:48 - DEBUG - Getting Gigs 
+6.12.2022, 23:07:12 - DEBUG - Getting Gigs 
+6.12.2022, 23:07:16 - DEBUG - Getting Gigs 
+6.12.2022, 23:07:23 - DEBUG - Getting Gigs 
+6.12.2022, 23:08:53 - DEBUG - Getting Gigs 
+6.12.2022, 23:09:01 - DEBUG - Getting Gigs 
+6.12.2022, 23:12:54 - DEBUG - Getting Gigs 
+6.12.2022, 23:14:05 - DEBUG - Getting Gigs 
+6.12.2022, 23:14:06 - DEBUG - Getting Gigs 
+6.12.2022, 23:14:15 - DEBUG - auth.service - login with username: itzik 
+6.12.2022, 23:14:15 - INFO - User login:  | {"_id":"638f9e184c12c7b025dc313d","fullname":"itzik","imgUrl":"./src/imgs/user-img/itzik.jpg","username":"itzik","level":"level 1","isAdmin":true,"rate":4.2,"gigs":[{"_id":"g1","title":"I will design your logo"},{"_id":"g4","title":"I will grow instagram marketing instagram promotion to get targeted instagram followers "}],"reviews":[{"id":"r1","gig":{"_id":"g1","title":"I will design your logo"},"txt":"Very kind and works fast","rate":4,"by":{"_id":"2","fullname":"naor","imgUrl":"./src/imgs/user-img/Naor-Fiss.jpeg"}}]} 
+6.12.2022, 23:14:16 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:14:24 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:14:24 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:14:24 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:14:24 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:14:57 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:18:41 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:18:44 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:18:44 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:18:44 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:18:44 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:18:51 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:20:00 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:20:00 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:20:00 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:20:00 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:22:03 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:22:03 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:22:03 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:22:03 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:01 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:01 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:01 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:01 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:29 - ERROR - while finding gig g1 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:29 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:29 - ERROR - while finding gig g4 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:23:29 - ERROR - Failed to get gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:31:11 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:33:39 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:35:07 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:36:48 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:38:01 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:38:26 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:38:33 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:39:12 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:39:23 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:39:31 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:41:03 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:41:09 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:41:38 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:47:50 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:49:10 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:49:21 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:50:38 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:50:48 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:51:42 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:51:52 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:54:23 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:55:45 - INFO - Server is running on port: 3030 
+6.12.2022, 23:55:53 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:56:48 - INFO - Server is running on port: 3030 
+6.12.2022, 23:56:56 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:58:00 - INFO - Server is running on port: 3030 
+6.12.2022, 23:58:09 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+6.12.2022, 23:58:53 - INFO - Server is running on port: 3030 
+6.12.2022, 23:59:39 - INFO - Server is running on port: 3030 
+7.12.2022, 0:00:08 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 0:00:36 - INFO - Server is running on port: 3030 
+7.12.2022, 0:00:43 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 0:01:07 - INFO - Server is running on port: 3030 
+7.12.2022, 0:01:10 - INFO - Server is running on port: 3030 
+7.12.2022, 0:01:17 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 0:02:31 - INFO - Server is running on port: 3030 
+7.12.2022, 0:03:18 - INFO - Server is running on port: 3030 
+7.12.2022, 0:03:25 - ERROR - cannot update user 638f9e184c12c7b025dc313d | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 0:03:25 - ERROR - Failed to update user | MongoError: Performing an update on the path '_id' would modify the immutable field '_id' (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 0:04:21 - INFO - Server is running on port: 3030 
+7.12.2022, 0:04:25 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 0:07:49 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 8:18:50 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 8:25:27 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 8:41:19 - INFO - Server is running on port: 3030 
+7.12.2022, 8:46:37 - INFO - Server is running on port: 3030 
+7.12.2022, 8:46:49 - INFO - Server is running on port: 3030 
+7.12.2022, 8:47:42 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 8:51:13 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 8:53:01 - INFO - Server is running on port: 3030 
+7.12.2022, 8:57:40 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:04:35 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:05:34 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:07:26 - INFO - Server is running on port: 3030 
+7.12.2022, 9:10:33 - INFO - Server is running on port: 3030 
+7.12.2022, 9:10:53 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
+7.12.2022, 9:13:26 - DEBUG - Getting Gigs (userId: 638f9e184c12c7b025dc313d)
